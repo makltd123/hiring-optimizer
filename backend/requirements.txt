@@ -1,0 +1,27 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+sqlalchemy==2.0.30
+alembic==1.13.1
+psycopg2-binary==2.9.9
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+pypdf2==3.0.1
+mistralai==0.4.2
+scipy==1.13.0
+numpy==1.26.4
+httpx==0.27.0
+reportlab==4.0.9
+# v3 enterprise
+celery[beat]==5.3.6
+redis==5.0.1
+ldap3==2.9.1
+pdfplumber==0.10.3
+# v4 enterprise gaps
+pyotp==2.9.0
+qrcode[pil]==7.4.2
+scikit-learn==1.6.1
+slowapi==0.1.9
+bcrypt==4.1.3

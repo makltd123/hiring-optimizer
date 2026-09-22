@@ -1,0 +1,28 @@
+Иванов Алексей Сергеевич
+alex.ivanov@gmail.com
++7 (916) 123-45-67
+
+Должность: Backend Developer
+Опыт: 5 лет
+
+ОПЫТ РАБОТЫ
+
+2021 — настоящее время | Senior Backend Developer | Яндекс
+- Разработка высоконагруженных сервисов на Python/FastAPI
+- Проектирование баз данных PostgreSQL, оптимизация запросов
+- Деплой в Kubernetes, настройка CI/CD через GitLab
+- Code review, менторинг джунов
+
+2019 — 2021 | Backend Developer | Тинькофф
+- REST API на Django REST Framework
+- Работа с RabbitMQ, Redis, Celery
+- Покрытие тестами (pytest), написание документации
+
+НАВЫКИ
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, RabbitMQ, Celery,
+Git, CI/CD, pytest, SQLAlchemy, REST API, микросервисы
+
+ОБРАЗОВАНИЕ
+МГТУ им. Баумана, Информатика и вычислительная техника, 2019
+
+Зарплатные ожидания: 200 000 руб/мес

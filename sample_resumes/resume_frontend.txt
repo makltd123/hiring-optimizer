@@ -1,0 +1,27 @@
+Петрова Мария Дмитриевна
+maria.petrova@yandex.ru
++7 (926) 987-65-43
+
+Должность: Frontend Developer
+Опыт: 3 года
+
+ОПЫТ РАБОТЫ
+
+2022 — настоящее время | Frontend Developer | Ozon
+- Разработка UI-компонентов на React + TypeScript
+- Настройка Next.js (App Router, SSR, SSG)
+- Стилизация через Tailwind CSS и CSS Modules
+- Интеграция с REST API и GraphQL
+
+2021 — 2022 | Junior Frontend | Студия Лебедева
+- Вёрстка по макетам Figma (HTML/CSS/JS)
+- Работа с Vue.js, базовый React
+
+НАВЫКИ
+React, TypeScript, Next.js, Tailwind CSS, GraphQL, Webpack, Vite,
+Git, Figma, REST API, Jest, Redux Toolkit
+
+ОБРАЗОВАНИЕ
+НИУ ВШЭ, Программная инженерия, 2021
+
+Зарплатные ожидания: 150 000 руб/мес

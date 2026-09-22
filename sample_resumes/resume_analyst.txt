@@ -1,0 +1,28 @@
+Смирнов Дмитрий Олегович
+d.smirnov@mail.ru
++7 (903) 456-78-90
+
+Должность: Data Analyst / BI-аналитик
+Опыт: 4 года
+
+ОПЫТ РАБОТЫ
+
+2022 — настоящее время | Senior Data Analyst | Сбербанк
+- Построение дашбордов в Tableau и Power BI
+- Написание сложных SQL-запросов (PostgreSQL, ClickHouse)
+- Анализ данных с Python (pandas, numpy, matplotlib)
+- A/B тестирование, статистический анализ
+
+2020 — 2022 | Data Analyst | МТС
+- Автоматизация отчётности в Excel/VBA
+- ETL-процессы, работа с хранилищами данных
+- Airflow для оркестрации пайплайнов
+
+НАВЫКИ
+SQL, PostgreSQL, ClickHouse, Python, pandas, numpy, Tableau, Power BI,
+Excel, Airflow, Git, A/B тесты, статистика
+
+ОБРАЗОВАНИЕ
+МГУ, Механико-математический факультет, 2020
+
+Зарплатные ожидания: 130 000 руб/мес
