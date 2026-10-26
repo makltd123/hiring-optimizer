@@ -110,3 +110,7 @@ docker compose -f docker-compose.enterprise.yml exec ollama ollama pull llama3.1
 ## Лицензия
 
 [MIT](LICENSE)
+
+---
+
+Автор: [Федор Маковский](https://fedor.alqira.ru), ИИ-разработчик. Услуги и проекты с цифрами качества: [fedor.alqira.ru](https://fedor.alqira.ru).
